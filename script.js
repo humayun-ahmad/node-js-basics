@@ -40,7 +40,7 @@ alert("Is Mark's BMI higer than John's? " + Markishigher);
 /*****************************************
 * coding chalange 3
 */
-
+/*
 var bills = [124,48,268];
 
 function tipCalculator(tipPercent, bill){
@@ -52,8 +52,13 @@ var tips = [tipCalculator(15,124) + bills[0],tipCalculator(20,48)+bills[1] ,tipC
 
 console.log(bills);
 console.log(tips);
+*/
 
 
+/*****************************************
+* Object and Properties
+*/
+/*
 
 
 
