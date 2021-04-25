@@ -1,0 +1,18 @@
+{
+  "name": "node_js_crush_course",
+  "version": "1.0.0",
+  "description": "Node js crush course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Humayun",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
